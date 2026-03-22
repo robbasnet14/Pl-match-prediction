@@ -1,0 +1,819 @@
+team,player,status,position,importance,expected_return,source,updated_at,minutes,starts,influence,creativity,threat,expected_goals,expected_assists
+Arsenal,Albert Sambi Lokonga,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Andre Harriman-Annous,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Benjamin White,doubtful,DF,0.7615999999999999,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,409.0,5.0,111.4,92.7,46.0,0.43,0.49
+Arsenal,Brayden Clarke,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Bukayo Saka,doubtful,MF,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,1725.0,19.0,489.2,680.7,683.0,6.58,5.36
+Arsenal,Christian Nørgaard,available,MF,0.6337777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,32.0,0.0,15.6,0.4,7.0,0.05,0.0
+Arsenal,Cristhian Mosquera,available,DF,0.7424666666666667,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,552.0,5.0,126.0,37.3,8.0,0.0,0.46
+Arsenal,David Raya Martín,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2520.0,28.0,410.8,33.4,0.0,0.0,0.06
+Arsenal,Declan Rice,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2325.0,26.0,690.0,839.5,265.0,2.95,5.97
+Arsenal,Eberechi Eze,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1224.0,14.0,330.2,211.7,349.0,3.48,2.03
+Arsenal,Ethan Nwaneri,available,MF,0.6628222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,165.0,0.0,8.6,22.5,24.0,0.23,0.08
+Arsenal,Fábio Ferreira Vieira,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Gabriel Fernando de Jesus,available,FW,0.8715555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,304.0,2.0,100.6,24.9,207.0,1.75,0.19
+Arsenal,Gabriel Martinelli Silva,available,MF,0.9396666666666668,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,717.0,8.0,147.2,128.4,316.0,3.42,0.9
+Arsenal,Gabriel dos Santos Magalhães,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1895.0,21.0,621.6,104.5,192.0,1.84,1.02
+Arsenal,Ismeal Kabia,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Jakub Kiwior,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Josh Nichols,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Jurriën Timber,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2235.0,25.0,453.0,369.5,348.0,4.3,1.44
+Arsenal,Kai Havertz,doubtful,FW,0.7459111111111112,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,156.0,2.0,32.2,32.6,22.0,0.21,0.06
+Arsenal,Karl Hein,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Kepa Arrizabalaga Revuelta,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Leandro Trossard,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1590.0,17.0,399.4,433.9,419.0,4.82,2.57
+Arsenal,Maldini Kacurri,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Marli Salmon,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Martin Ødegaard,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1070.0,13.0,259.6,434.7,144.0,1.01,2.91
+Arsenal,Martín Zubimendi Ibáñez,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2355.0,27.0,521.6,318.0,238.0,2.56,1.86
+Arsenal,Max Dowman,injured,MF,0.6353555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,27.0,0.0,1.0,0.8,26.0,0.14,0.02
+Arsenal,Mikel Merino Zazón,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,996.0,10.0,304.4,187.0,237.0,2.99,1.45
+Arsenal,Myles Lewis-Skelly,available,DF,0.6616444444444445,nan,fpl,2026-02-23T17:34:59+00:00,311.0,1.0,31.2,45.5,18.0,0.05,0.06
+Arsenal,Noni Madueke,available,MF,0.9671111111111113,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,829.0,11.0,182.2,242.3,284.0,0.96,1.98
+Arsenal,Piero Hincapié,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1303.0,15.0,330.0,156.7,53.0,0.33,1.35
+Arsenal,Riccardo Calafiori,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1347.0,17.0,228.6,109.3,230.0,2.77,0.4
+Arsenal,Tommy Setford,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Arsenal,Viktor Gyökeres,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1726.0,21.0,373.6,192.4,583.0,8.18,1.69
+Arsenal,William Saliba,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1894.0,22.0,365.2,124.5,39.0,0.62,0.61
+Aston Villa,Alysson Edward Franco da Rocha dos Santos,injured,MF,0.6237777777777778,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,16.0,0.0,0.0,0.5,4.0,0.0,0.01
+Aston Villa,Amadou Onana,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1198.0,15.0,311.0,82.4,108.0,0.84,0.27
+Aston Villa,Andrés García,available,DF,0.5847333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,33.0,0.0,0.8,1.6,0.0,0.0,0.01
+Aston Villa,Ben Broggio,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Boubacar Kamara,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1410.0,17.0,325.0,241.3,75.0,0.53,0.84
+Aston Villa,Bradley Burrowes,available,MF,0.6219111111111111,nan,fpl,2026-02-23T17:34:59+00:00,16.0,0.0,0.0,0.3,0.0,0.0,0.0
+Aston Villa,Donyell Malen,available,MF,0.9161111111111112,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,640.0,5.0,183.4,99.7,290.0,4.03,0.35
+Aston Villa,Douglas Luiz Soares de Paulo,available,MF,0.912,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,649.0,9.0,115.2,229.3,49.0,0.23,1.23
+Aston Villa,Emiliano Buendía Stati,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1224.0,15.0,324.8,283.0,300.0,2.71,1.46
+Aston Villa,Emiliano Martínez Romero,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2025.0,23.0,527.8,3.1,0.0,0.0,0.05
+Aston Villa,Enzo Barrenechea,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Ezri Konsa Ngoyo,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2315.0,26.0,464.8,86.1,104.0,1.01,0.52
+Aston Villa,Filip Marschall,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,George Hemmings,available,MF,0.6244222222222222,nan,fpl,2026-02-23T17:34:59+00:00,25.0,0.0,0.0,1.7,2.0,0.04,0.01
+Aston Villa,Harvey Elliott,injured,MF,0.6703333333333333,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,110.0,1.0,11.8,31.7,31.0,0.29,0.08
+Aston Villa,Ian Maatsen,available,DF,0.9658888888888888,nan,fpl,2026-02-23T17:34:59+00:00,1133.0,12.0,228.2,261.1,161.0,0.85,1.74
+Aston Villa,Jadon Sancho,available,MF,0.9166666666666669,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,600.0,6.0,90.4,208.4,164.0,0.58,1.44
+Aston Villa,Jamaldeen Jimoh-Aloba,available,MF,0.6211111111111112,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,8.0,0.0,0.2,0.3,0.0,0.0,0.0
+Aston Villa,James Wright,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Joe Gauci,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,John McGinn,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1591.0,21.0,308.2,385.2,193.0,2.52,1.96
+Aston Villa,Kadan Young,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Lamare Bogarde,available,DF,0.7541111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,662.0,7.0,91.8,45.7,10.0,0.0,0.16
+Aston Villa,Leander Dendoncker,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Leon Bailey,available,MF,0.7174444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,190.0,1.0,28.0,98.5,34.0,0.21,0.61
+Aston Villa,Leon Routh,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Lewis Dobbin,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Lino da Cruz Sousa,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Lucas Digne,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1309.0,15.0,278.2,302.6,108.0,0.54,2.21
+Aston Villa,Marco Bizot,available,GK,0.8262444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,405.0,4.0,92.8,0.0,0.0,0.0,0.0
+Aston Villa,Matty Cash,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2217.0,25.0,508.2,379.3,188.0,1.04,2.37
+Aston Villa,Morgan Rogers,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2407.0,27.0,573.6,513.0,658.0,4.93,3.1
+Aston Villa,Ollie Watkins,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1989.0,23.0,382.6,223.3,735.0,9.72,1.0
+Aston Villa,Pau Torres,available,DF,0.9226,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1206.0,13.0,235.8,36.3,51.0,0.59,0.33
+Aston Villa,Ronnie Hollingshead,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Ross Barkley,available,MF,0.7237777777777779,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,186.0,0.0,67.2,58.8,61.0,0.57,0.29
+Aston Villa,Sam Proctor,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Samuel Iling-Junior,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,TJ Carroll,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Tammy Abraham,available,FW,0.7582888888888889,nan,fpl,2026-02-23T17:34:59+00:00,124.0,1.0,42.4,15.5,76.0,0.89,0.08
+Aston Villa,Travis Patterson,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Triston Rowe,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Tyrone Mings,available,DF,0.8481555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,782.0,9.0,183.8,67.8,55.0,0.65,0.34
+Aston Villa,Victor Lindelöf,available,DF,0.7443555555555555,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,572.0,6.0,123.8,27.5,8.0,0.03,0.07
+Aston Villa,Yasin Özcan,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Youri Tielemans,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1295.0,15.0,317.2,401.3,147.0,0.97,2.53
+Aston Villa,Zépiqueno Redmond,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aston Villa,Álex Moreno Lopera,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Adam Smith,available,DF,0.7699333333333332,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,727.0,10.0,82.8,32.3,18.0,0.0,0.11
+Bournemouth,Adrien Truffert,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2388.0,27.0,550.4,345.7,92.0,0.39,1.71
+Bournemouth,Alex Paulsen,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Alex Scott,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1948.0,24.0,397.2,267.0,226.0,2.58,1.31
+Bournemouth,Alex Tóth,available,MF,0.6488666666666666,nan,fpl,2026-02-23T17:34:59+00:00,66.0,1.0,6.0,23.2,8.0,0.06,0.08
+Bournemouth,Amine Adli,available,MF,0.9647777777777776,nan,fpl,2026-02-23T17:34:59+00:00,898.0,9.0,249.6,204.0,227.0,2.49,1.47
+Bournemouth,Bafodé Diakité,available,DF,0.9492444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1275.0,15.0,267.0,54.3,22.0,0.02,0.19
+Bournemouth,Ben Gannon-Doak,injured,MF,0.6464222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,53.0,0.0,21.2,14.0,11.0,0.09,0.09
+Bournemouth,Ben Winterburn,available,MF,0.6206666666666667,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,6.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Callan McKenna,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Charlie Stevens,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Chris Mepham,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Christos Mandas,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Daniel Adu-Adjei,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,David Brooks,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,969.0,11.0,198.4,309.5,391.0,4.51,2.82
+Bournemouth,Dominic Sadi,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Enes Ünal,available,FW,0.7462000000000001,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,151.0,0.0,41.4,8.8,61.0,1.05,0.05
+Bournemouth,Francisco Evanilson de Lima Barbosa,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1895.0,22.0,256.2,281.3,612.0,7.35,0.92
+Bournemouth,Fraser Forster,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Hamed Traorè,available,MF,0.6356444444444445,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,16.0,0.0,21.2,10.0,0.0,0.0,0.0
+Bournemouth,Illia Zabarnyi,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,James Hill,available,DF,0.9585555555555556,nan,fpl,2026-02-23T17:34:59+00:00,1112.0,11.0,329.8,70.1,59.0,0.23,0.83
+Bournemouth,Julio Soler Barreto,injured,DF,0.5865777777777778,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,34.0,0.0,1.8,2.5,2.0,0.0,0.0
+Bournemouth,Julián Araujo Zúñiga,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Junior Kroupi,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,956.0,12.0,332.4,178.0,326.0,4.39,0.64
+Bournemouth,Justin Kluivert,injured,MF,0.9715555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,914.0,10.0,146.6,304.1,128.0,2.24,1.54
+Bournemouth,Lewis Cook,doubtful,MF,0.9350222222222224,chance_next_round:25%,fpl,2026-02-23T17:34:59+00:00,870.0,8.0,206.0,183.3,12.0,0.07,0.52
+Bournemouth,Luis Sinisterra Lucumí,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Malcom DaCosta,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Marcos Senesi Barón,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2298.0,26.0,825.8,292.9,163.0,1.24,3.97
+Bournemouth,Marcus Tavernier,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1772.0,20.0,421.2,441.7,334.0,5.12,2.43
+Bournemouth,Matai Akinmboni,doubtful,DF,0.58,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Norberto Murara Neto,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Owen Bevan,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Philip Billing,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Rayan Vitor Simplício Rocha,available,MF,0.7848222222222223,nan,fpl,2026-02-23T17:34:59+00:00,288.0,3.0,101.4,78.7,85.0,0.8,0.81
+Bournemouth,Remy Rees-Dottin,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Romain Faivre,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Ryan Christie,available,MF,0.8488,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,478.0,2.0,116.8,127.0,129.0,1.39,0.39
+Bournemouth,Tyler Adams,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1261.0,16.0,281.8,78.3,105.0,0.56,0.33
+Bournemouth,Veljko Milosavljevic,available,DF,0.6951333333333334,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,367.0,4.0,98.4,13.9,10.0,0.15,0.19
+Bournemouth,Will Dennis,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Zain Silcott-Duberry,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bournemouth,Álex Jiménez Sánchez,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1675.0,19.0,296.2,158.5,157.0,0.93,0.87
+Bournemouth,Đorđe Petrović,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,615.2,0.0,0.0,0.0,0.0
+Brentford,Aaron Hickey,doubtful,DF,0.7429111111111111,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,588.0,7.0,82.6,16.2,42.0,0.4,0.17
+Brentford,Antoni Milambo,injured,MF,0.6325777777777778,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,45.0,1.0,4.0,1.8,0.0,0.0,0.01
+Brentford,Benjamin Arthur,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Benjamin Fredrick,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Caoimhín Kelleher,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,626.8,20.0,0.0,0.0,0.04
+Brentford,Dango Ouattara,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1456.0,16.0,312.8,217.2,421.0,5.2,2.1
+Brentford,Ellery Balcombe,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Ethan Pinnock,available,DF,0.6540666666666666,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,228.0,3.0,62.8,1.1,12.0,0.0,0.06
+Brentford,Frank Onyeka,available,MF,0.6502222222222223,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,88.0,0.0,28.4,13.6,4.0,0.0,0.36
+Brentford,Fábio Freitas Gouveia Carvalho,injured,MF,0.6723333333333333,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,100.0,1.0,39.0,6.5,36.0,0.7,0.03
+Brentford,Gustavo Nunes Fernandes Gomes,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Hákon Rafn Valdimarsson,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Igor Thiago Nascimento Rodrigues,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2292.0,26.0,739.8,244.4,876.0,15.06,1.55
+Brentford,Iwan Morgan,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Jayden Meghoma,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Jordan Henderson,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1555.0,18.0,287.6,303.1,43.0,0.33,2.06
+Brentford,Josh Dasilva,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Julian Eyestone,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Kaye Furo,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Keane Lewis-Potter,available,DF,0.9706666666666666,nan,fpl,2026-02-23T17:34:59+00:00,1131.0,13.0,216.8,157.0,220.0,2.02,0.99
+Brentford,Kevin Schade,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1902.0,22.0,435.6,306.2,617.0,8.57,1.77
+Brentford,Kim Ji-soo,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Kristoffer Ajer,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1447.0,17.0,323.6,33.2,153.0,0.69,0.64
+Brentford,Luka Bentt,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Mads Roerslev Rasmussen,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Mathias Jensen,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1285.0,15.0,229.0,348.2,144.0,1.86,3.64
+Brentford,Matthew Cox,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Michael Kayode,doubtful,DF,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,2268.0,26.0,416.8,360.3,73.0,0.27,2.36
+Brentford,Mikkel Damsgaard,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1315.0,15.0,313.4,483.7,195.0,1.4,3.68
+Brentford,Myles Peart-Harris,available,MF,0.6201111111111111,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Nathan Collins,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2071.0,22.0,646.4,114.9,250.0,1.58,1.13
+Brentford,Paris Maghoma,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Reiss Nelson,available,MF,0.6417333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,50.0,0.0,16.4,4.0,16.0,0.61,0.07
+Brentford,Rico Henry,available,DF,0.8626666666666666,nan,fpl,2026-02-23T17:34:59+00:00,1212.0,12.0,116.2,54.8,27.0,0.18,0.46
+Brentford,Romelle Donovan,available,MF,0.6375111111111111,nan,fpl,2026-02-23T17:34:59+00:00,20.0,0.0,6.2,11.2,17.0,0.07,0.01
+Brentford,Ryan Trevitt,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brentford,Sepp van den Berg,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1943.0,21.0,453.0,55.4,204.0,2.37,0.48
+Brentford,Vitaly Janelt,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1253.0,13.0,329.0,313.6,91.0,0.82,1.88
+Brentford,Yehor Yarmoliuk,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1915.0,22.0,316.2,213.5,108.0,1.19,1.13
+Brentford,Yunus Emre Konak,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Abdallah Sima,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Adam Webster,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Adrian Mazilu,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Andrew Moran,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Bart Verbruggen,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,670.2,10.0,0.0,0.0,0.05
+Brighton,Brajan Gruda,available,MF,0.9386666666666668,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,708.0,8.0,134.4,217.1,152.0,1.86,0.88
+Brighton,Carl Rushworth,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Carlos Baleba,available,MF,0.932622222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1180.0,18.0,92.0,88.9,25.0,0.36,0.27
+Brighton,Charalampos Kostoulas,available,FW,0.9009333333333334,nan,fpl,2026-02-23T17:34:59+00:00,292.0,2.0,129.6,80.0,192.0,1.7,0.23
+Brighton,Charlie Tasker,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Danny Welbeck,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1534.0,17.0,367.2,212.2,451.0,8.72,0.77
+Brighton,Diego Coppola,available,DF,0.6328222222222223,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,193.0,2.0,42.4,3.7,2.0,0.0,0.01
+Brighton,Diego Gómez Amarilla,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1587.0,19.0,340.0,249.0,324.0,4.6,1.22
+Brighton,Eiran Cashin,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Evan Ferguson,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Ferdi Kadıoğlu,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2140.0,23.0,345.8,335.1,164.0,1.4,2.25
+Brighton,Freddie Simmonds,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Georginio Rutter,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1502.0,18.0,243.2,267.7,350.0,2.05,2.06
+Brighton,Harry Howell,available,MF,0.6398222222222222,nan,fpl,2026-02-23T17:34:59+00:00,79.0,1.0,7.2,4.4,2.0,0.0,0.03
+Brighton,Igor Julio dos Santos de Paulo,available,DF,0.6126222222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,103.0,1.0,25.8,10.6,0.0,0.0,0.0
+Brighton,Jack Hinshelwood,available,MF,0.9130666666666668,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,843.0,9.0,139.0,88.4,120.0,0.95,0.48
+Brighton,Jacob Slater,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,James Milner,available,MF,0.8094444444444445,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,464.0,3.0,110.0,112.5,54.0,0.96,0.59
+Brighton,Jan Paul van Hecke,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2220.0,25.0,698.0,135.8,226.0,2.05,0.92
+Brighton,Jason Steele,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Jeremy Sarmiento Morante,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Joe Knight,available,MF,0.6201111111111111,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Joël Veltman,available,DF,0.8636444444444445,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,808.0,8.0,212.6,70.6,63.0,0.99,0.11
+Brighton,Julio Enciso Espínola,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Kjell Scherpen,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Lewis Dunk,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2295.0,25.0,509.8,95.2,145.0,1.25,0.46
+Brighton,Malick Yalcouyé,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Mats Wieffer,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1243.0,14.0,310.4,231.7,131.0,1.2,1.49
+Brighton,Matt O'Riley,available,MF,0.7358888888888889,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,185.0,2.0,61.6,67.4,63.0,1.21,0.18
+Brighton,Maxim De Cuyper,available,DF,0.9755555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1130.0,14.0,214.0,319.7,132.0,1.55,2.15
+Brighton,Mitoma Kaoru,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1273.0,14.0,209.4,332.3,264.0,2.49,2.01
+Brighton,Nehemiah Oriola,available,MF,0.6201111111111111,nan,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Olivier Boscagli,available,DF,0.7065111111111111,nan,fpl,2026-02-23T17:34:59+00:00,349.0,4.0,101.8,38.6,12.0,0.05,0.24
+Brighton,Pascal Groß,available,MF,0.926777777777778,nan,fpl,2026-02-23T17:34:59+00:00,646.0,7.0,148.8,258.5,83.0,0.71,1.42
+Brighton,Pervis Estupiñán Tenorio,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Solly March,doubtful,MF,0.62,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Stefanos Tzimas,injured,FW,0.7780222222222224,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,132.0,1.0,66.6,65.7,44.0,0.44,0.11
+Brighton,Tariq Lamptey,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Tom McGill,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Brighton,Tom Watson,available,MF,0.6331777777777777,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,57.0,0.0,6.0,2.4,7.0,0.04,0.03
+Brighton,Yankuba Minteh,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1634.0,18.0,308.4,448.3,459.0,2.91,2.78
+Brighton,Yasin Ayari,doubtful,MF,0.98,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,1699.0,18.0,311.2,214.4,206.0,2.54,1.07
+Burnley,Aaron Ramsey,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Armando Broja,injured,FW,0.9700666666666669,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,805.0,8.0,96.2,62.2,203.0,2.14,0.13
+Burnley,Ashley Barnes,available,FW,0.685,nan,fpl,2026-02-23T17:34:59+00:00,15.0,0.0,0.2,0.3,7.0,0.11,0.0
+Burnley,Axel Tuanzebe,injured,DF,0.866,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,931.0,11.0,225.2,9.8,52.0,0.61,0.11
+Burnley,Bashir Humphreys,available,DF,0.8680888888888889,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,879.0,9.0,212.6,68.6,46.0,0.22,0.47
+Burnley,Connor Roberts,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Darko Churlinov,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Enock Agyei,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Etienne Green,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Florentino Ibrain Morris Luís,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1580.0,19.0,320.8,169.4,44.0,0.55,0.38
+Burnley,George Brierley,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Hannes Delcroix,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Hannibal Mejbri,available,MF,0.9120444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,720.0,8.0,133.8,173.3,80.0,0.46,1.07
+Burnley,Hjalmar Ekdal,available,DF,0.9515111111111112,nan,fpl,2026-02-23T17:34:59+00:00,1179.0,13.0,273.8,43.1,78.0,0.21,0.24
+Burnley,Jacob Bruun Larsen,available,MF,0.9583777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,916.0,9.0,114.2,188.9,128.0,1.35,1.06
+Burnley,Jaidon Anthony,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1748.0,21.0,404.6,366.3,363.0,3.19,1.8
+Burnley,James Ward-Prowse,available,MF,0.827,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,454.0,5.0,80.2,209.8,6.0,0.13,1.05
+Burnley,Jaydon Banel,available,MF,0.6212222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,9.0,0.0,0.0,0.5,0.0,0.0,0.0
+Burnley,Joe Worrall,available,DF,0.6747777777777777,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,334.0,3.0,88.8,1.2,6.0,0.0,0.02
+Burnley,Jordan Beyer,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Josh Cullen,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1513.0,18.0,342.0,218.1,98.0,0.94,1.36
+Burnley,Josh Laurent,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1336.0,13.0,244.2,120.3,92.0,0.6,0.38
+Burnley,Kyle Walker,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2281.0,26.0,371.2,159.2,22.0,0.12,0.97
+Burnley,Lesley Ugochukwu,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1766.0,21.0,351.4,142.4,181.0,2.15,0.25
+Burnley,Loum Tchaouna,available,MF,0.8819333333333335,nan,fpl,2026-02-23T17:34:59+00:00,804.0,9.0,92.6,93.5,101.0,0.86,0.57
+Burnley,Luca Koleosho,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Lucas Pires Silva,available,DF,0.9048888888888889,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,906.0,10.0,154.2,182.8,55.0,0.31,0.97
+Burnley,Lyle Foster,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1019.0,12.0,175.2,110.1,163.0,2.25,0.26
+Burnley,Manuel Benson Hedilazio,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Marcus Edwards,available,MF,0.9613333333333334,nan,fpl,2026-02-23T17:34:59+00:00,867.0,9.0,162.8,243.6,190.0,1.44,1.65
+Burnley,Martin Dúbravka,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,769.4,0.0,0.0,0.0,0.03
+Burnley,Max Weiß,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Maxime Estève,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2059.0,24.0,506.4,87.6,80.0,0.58,0.53
+Burnley,Michael Obafemi,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Mike Trésor Ndayishimiye,injured,MF,0.6234444444444444,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,19.0,0.0,0.6,0.4,2.0,0.0,0.0
+Burnley,Oliver Pimlott,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Oliver Sonne,available,DF,0.6445111111111111,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,164.0,1.0,44.8,18.1,30.0,0.55,0.08
+Burnley,Oluwaseun Adewumi,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Owen Dodgson,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Quilindschy Hartman,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1337.0,15.0,305.4,228.9,57.0,0.19,1.51
+Burnley,Shurandy Sambo,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Václav Hladký,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Zeki Amdouni,injured,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Burnley,Zian Flemming,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,915.0,11.0,254.2,76.4,305.0,4.07,0.18
+Chelsea,Aarón Anselmino,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Alejandro Garnacho Ferreyra,available,MF,0.9787777777777776,nan,fpl,2026-02-23T17:34:59+00:00,889.0,12.0,141.0,247.4,273.0,2.49,2.57
+Chelsea,Andrey Nascimento dos Santos,available,MF,0.9109777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,885.0,9.0,146.4,124.8,61.0,1.7,0.79
+Chelsea,Benoît Badiashile Mukinayi,available,DF,0.7123111111111111,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,470.0,6.0,102.8,7.9,2.0,0.0,0.06
+Chelsea,Christopher Nkunku,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Cole Palmer,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1067.0,14.0,384.2,208.5,372.0,8.07,1.18
+Chelsea,Dário Luís Essugo,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Enzo Fernández,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2234.0,25.0,618.4,713.8,597.0,9.87,5.16
+Chelsea,Estêvão Almeida de Oliveira Gonçalves,doubtful,MF,0.952,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,738.0,10.0,177.2,218.3,283.0,2.82,2.12
+Chelsea,Filip Jörgensen,doubtful,GK,0.7568666666666666,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,174.0,1.0,28.2,0.0,0.0,0.0,0.0
+Chelsea,Gabriel Słonina,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Jamie Bynoe-Gittens,injured,MF,0.8387333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,486.0,5.0,93.0,130.4,91.0,0.81,0.94
+Chelsea,Jorrel Hato,available,DF,0.7106,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,376.0,3.0,80.0,66.1,20.0,0.26,0.32
+Chelsea,Josh Acheampong,available,DF,0.7804000000000001,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,567.0,7.0,125.2,39.2,66.0,0.6,0.13
+Chelsea,João Pedro Junqueira de Jesus,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1966.0,23.0,592.2,396.6,668.0,10.0,1.71
+Chelsea,Kendry Páez Andrade,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Landon Emenalo,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Levi Samuels Colwill,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Liam Delap,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,718.0,9.0,58.8,51.8,287.0,3.68,0.18
+Chelsea,Malo Gusto,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1555.0,17.0,323.6,277.1,156.0,1.46,1.37
+Chelsea,Mamadou Sarr,available,DF,0.5802222222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Marc Cucurella Saseta,injured,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1885.0,22.0,429.6,384.9,194.0,1.64,2.73
+Chelsea,Marc Guiu Paz,available,FW,0.7766222222222223,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,247.0,1.0,24.6,38.8,81.0,1.46,0.29
+Chelsea,Max Merrick,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Mike Penders,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Moisés Caicedo Corozo,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1864.0,21.0,460.8,275.6,104.0,1.16,1.84
+Chelsea,Mykhailo Mudryk,suspended,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Nicolas Jackson,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Pedro Lomba Neto,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2069.0,23.0,440.6,673.2,425.0,4.24,5.6
+Chelsea,Reece James,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1622.0,17.0,417.0,404.8,89.0,0.86,2.32
+Chelsea,Robert Lynch Sánchez,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2254.0,26.0,611.2,50.0,0.0,0.0,0.04
+Chelsea,Roméo Lavia,available,MF,0.6451555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,105.0,1.0,9.6,7.5,2.0,0.0,0.05
+Chelsea,Teddy Sharman-Lowe,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chelsea,Tosin Adarabioyo,available,DF,0.8158666666666666,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,719.0,7.0,221.2,32.0,19.0,0.11,0.4
+Chelsea,Trevoh Chalobah,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2280.0,26.0,647.4,93.3,145.0,1.14,0.75
+Chelsea,Wesley Fofana,suspended,DF,0.9217333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1023.0,11.0,321.0,46.4,22.0,0.25,0.55
+Crystal Palace,Adam Wharton,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1988.0,24.0,325.6,503.6,124.0,1.13,5.31
+Crystal Palace,Asher Agbinone,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Ben Casey,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Borna Sosa,available,DF,0.5979777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,53.0,0.0,11.0,12.2,4.0,0.0,0.06
+Crystal Palace,Brennan Johnson,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1065.0,11.0,168.6,178.1,189.0,1.77,0.78
+Crystal Palace,Caleb Kporha,available,DF,0.58,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Chadi Riad Dnanou,available,DF,0.6428888888888888,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,190.0,2.0,41.6,17.9,12.0,0.11,0.03
+Crystal Palace,Cheick Doucouré,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Chris Richards,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2062.0,23.0,542.0,102.7,129.0,1.09,1.27
+Crystal Palace,Christantus Uche,available,FW,0.7345777777777779,nan,fpl,2026-02-23T17:34:59+00:00,150.0,0.0,10.8,6.5,68.0,0.39,0.01
+Crystal Palace,Daichi Kamada,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1295.0,15.0,159.8,212.8,132.0,1.44,2.01
+Crystal Palace,Daniel Muñoz Mejía,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1676.0,19.0,422.0,279.8,278.0,1.94,3.29
+Crystal Palace,Danny Imray,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,David Ozoh,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Dean Benamar,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Dean Henderson,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,615.6,10.0,0.0,0.0,0.1
+Crystal Palace,Eddie Nketiah,injured,FW,0.9038222222222224,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,414.0,2.0,120.0,84.6,173.0,1.77,0.46
+Crystal Palace,Evann Guessand,available,MF,0.9037111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,692.0,7.0,150.2,69.4,167.0,1.52,0.69
+Crystal Palace,Franco Umeh-Chibueze,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,George King,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Ismaïla Sarr,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1456.0,17.0,287.4,194.4,324.0,6.7,0.66
+Crystal Palace,Jaydee Canvot,available,DF,0.7132,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,442.0,4.0,115.0,10.2,19.0,0.41,0.16
+Crystal Palace,Jean-Philippe Mateta,injured,FW,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1904.0,23.0,411.8,119.7,664.0,11.88,1.26
+Crystal Palace,Jefferson Lerma Solís,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1156.0,12.0,215.6,152.9,174.0,1.01,0.91
+Crystal Palace,Jesurun Rak-Sakyi,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Joél Drakes-Thomas,available,MF,0.6218444444444444,nan,fpl,2026-02-23T17:34:59+00:00,7.0,0.0,1.4,1.0,0.0,0.0,0.0
+Crystal Palace,Justin Devenny,available,MF,0.8642666666666667,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,593.0,5.0,86.6,94.5,164.0,2.38,0.36
+Crystal Palace,Jørgen Strand Larsen,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1669.0,17.0,204.2,144.5,353.0,3.8,0.54
+Crystal Palace,Kaden Rodney,available,MF,0.6203777777777777,nan,fpl,2026-02-23T17:34:59+00:00,3.0,0.0,0.0,0.1,0.0,0.0,0.0
+Crystal Palace,Malcolm Ebiowei,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Matheus França de Oliveira,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Maxence Lacroix,doubtful,DF,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,2340.0,26.0,597.8,79.3,200.0,1.85,0.72
+Crystal Palace,Naouirou Ahamada,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Nathaniel Clyne,available,DF,0.7238666666666667,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,418.0,6.0,74.4,46.3,31.0,0.43,0.56
+Crystal Palace,Odsonne Édouard,available,FW,0.6811111111111112,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,2.0,0.0,2.0,0.0,0.0,0.0,0.0
+Crystal Palace,Remi Matthews,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Rio Cardines,available,MF,0.62,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Rob Holding,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Romain Esse,available,MF,0.6313333333333333,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,40.0,0.0,6.8,2.7,6.0,0.0,0.04
+Crystal Palace,Tyrick Mitchell,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2398.0,27.0,474.6,340.8,180.0,1.05,1.56
+Crystal Palace,Walter Benítez,available,GK,0.72,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Crystal Palace,Will Hughes,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1200.0,14.0,156.2,284.9,81.0,1.06,1.66
+Crystal Palace,Yéremy Pino Santos,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1701.0,21.0,270.4,569.8,318.0,3.8,4.74
+Crystal Palace,Zach Marsh,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Adam Aznou,available,DF,0.58,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Braiden Graham,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Callum Bates,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Carlos Alcaraz Durán,available,MF,0.8945555555555555,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,667.0,6.0,83.0,144.5,156.0,1.04,0.44
+Everton,Coby Ebere,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Dwight McNeil,available,MF,0.8339111111111112,nan,fpl,2026-02-23T17:34:59+00:00,615.0,7.0,76.0,127.8,45.0,0.46,0.68
+Everton,Elijah Campbell,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Harrison Armstrong,available,MF,0.7602888888888889,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,410.0,5.0,47.0,50.9,59.0,0.7,0.17
+Everton,Harry Tyrer,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Idrissa Gana Gueye,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1400.0,17.0,265.0,179.8,147.0,1.26,0.87
+Everton,Iliman Ndiaye,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1703.0,20.0,417.0,309.9,384.0,4.38,3.64
+Everton,Isaac Heath,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Jack Grealish,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1627.0,18.0,374.2,520.5,397.0,2.05,3.37
+Everton,Jake O'Brien,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2186.0,24.0,415.4,211.0,124.0,0.83,0.68
+Everton,James Garner,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2333.0,26.0,598.2,590.2,198.0,1.78,4.25
+Everton,James Tarkowski,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2340.0,26.0,650.0,174.1,232.0,1.72,1.3
+Everton,Jarrad Branthwaite,available,DF,0.6501777777777777,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,228.0,2.0,38.2,16.2,24.0,0.18,0.04
+Everton,Jenson Metcalfe,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Jordan Pickford,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2340.0,26.0,624.0,0.2,2.0,0.0,0.14
+Everton,Kiernan Dewsbury-Hall,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1560.0,18.0,346.0,372.9,251.0,2.37,3.26
+Everton,Mark Travers,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Martin Sherif,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Merlin Röhl,available,MF,0.7399333333333334,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,353.0,2.0,61.2,65.9,32.0,0.5,0.17
+Everton,Michael Keane,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1857.0,21.0,556.4,27.6,215.0,1.85,0.18
+Everton,Nathan Patterson,available,DF,0.6599999999999999,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,237.0,3.0,63.6,6.4,17.0,0.03,0.04
+Everton,Norberto Bercique Gomes Betuncal,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,881.0,8.0,161.8,55.2,347.0,5.15,0.15
+Everton,Reece Welch,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Roman Dixon,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Séamus Coleman,available,DF,0.5862666666666666,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,11.0,1.0,0.0,0.1,0.0,0.0,0.0
+Everton,Thierno Barry,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1486.0,18.0,212.8,162.2,375.0,5.22,0.35
+Everton,Tim Iroegbunam,available,MF,0.9069555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,934.0,11.0,162.8,79.6,46.0,0.35,0.58
+Everton,Tom King,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Tyler Dibling,available,MF,0.7404444444444445,nan,fpl,2026-02-23T17:34:59+00:00,348.0,4.0,46.0,61.0,32.0,0.2,0.14
+Everton,Tyler Onyango,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Everton,Tyrique George,available,MF,0.6881111111111111,nan,fpl,2026-02-23T17:34:59+00:00,224.0,1.0,8.2,11.8,66.0,0.4,0.12
+Everton,Vitalii Mykolenko,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1969.0,22.0,356.6,272.0,65.0,0.28,2.14
+Everton,Youssef Ramalho Chermiti,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Alex Iwobi,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1773.0,21.0,365.4,498.4,188.0,1.12,3.33
+Fulham,Alfie McNally,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Andreas Hoelgebaum Pereira,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Antonee Robinson,doubtful,DF,0.9068888888888887,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,801.0,9.0,192.8,207.2,34.0,0.22,1.11
+Fulham,Benjamin Lecomte,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Bernd Leno,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,580.0,0.0,0.0,0.0,0.0
+Fulham,Calvin Bassey,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1542.0,17.0,385.8,96.4,68.0,1.02,0.18
+Fulham,Emile Smith Rowe,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1344.0,15.0,232.2,247.2,261.0,3.52,0.93
+Fulham,Harrison Reed,available,MF,0.6457999999999999,nan,fpl,2026-02-23T17:34:59+00:00,23.0,0.0,36.6,8.7,7.0,0.04,0.24
+Fulham,Harry Wilson,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2015.0,24.0,544.2,471.4,473.0,4.35,3.81
+Fulham,Issa Diop,available,DF,0.6834222222222223,nan,fpl,2026-02-23T17:34:59+00:00,412.0,4.0,72.4,4.3,8.0,0.02,0.03
+Fulham,Joachim Andersen,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2291.0,26.0,657.4,111.8,124.0,1.26,1.54
+Fulham,Jonah Kusi-Asare,available,FW,0.6924888888888889,nan,fpl,2026-02-23T17:34:59+00:00,30.0,0.0,1.2,11.4,8.0,0.0,0.07
+Fulham,Jorge Cuenca Barreno,available,DF,0.8700666666666668,nan,fpl,2026-02-23T17:34:59+00:00,930.0,11.0,235.4,47.0,14.0,0.05,0.53
+Fulham,Josh King,available,MF,0.9572222222222224,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,908.0,11.0,106.8,106.2,195.0,1.38,0.42
+Fulham,Kenny Tete,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1530.0,18.0,368.2,180.1,90.0,0.7,1.1
+Fulham,Kevin Santos Lopes de Macedo,doubtful,MF,0.9597777777777778,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,898.0,8.0,200.8,231.6,206.0,1.12,1.4
+Fulham,Luke Harris,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Martial Godo,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Oscar Bobb,available,MF,0.8569111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,534.0,5.0,74.2,170.1,99.0,0.47,1.17
+Fulham,Raúl Jiménez Rodríguez,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1772.0,22.0,420.2,273.6,644.0,9.59,0.81
+Fulham,Rodrigo Muniz Carvalho,available,FW,0.8630222222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,418.0,4.0,73.4,52.9,136.0,1.11,0.02
+Fulham,Ryan Sessegnon,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1507.0,17.0,321.0,179.6,159.0,1.01,1.69
+Fulham,Samuel Amissah,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Samuel Chukwueze,injured,MF,0.9205555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,635.0,6.0,228.0,217.9,182.0,1.56,2.55
+Fulham,Sander Berge,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2251.0,26.0,360.6,274.7,71.0,1.29,1.08
+Fulham,Saša Lukić,doubtful,MF,0.98,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,1208.0,15.0,232.0,338.7,119.0,1.74,1.35
+Fulham,Seth Ridgeon,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Steven Benda,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fulham,Timothy Castagne,available,DF,0.9606666666666666,nan,fpl,2026-02-23T17:34:59+00:00,1118.0,12.0,224.2,130.8,87.0,0.94,0.51
+Fulham,Tom Cairney,available,MF,0.7802222222222223,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,455.0,3.0,78.2,86.8,48.0,0.85,0.28
+Leeds,Alex Cairns,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Anton Stach,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1775.0,21.0,505.0,677.8,247.0,2.2,3.63
+Leeds,Brenden Aaronson,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1725.0,20.0,375.6,338.0,376.0,3.39,2.84
+Leeds,Charlie Crew,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Daniel James,available,MF,0.7821333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,368.0,4.0,38.2,96.6,93.0,0.71,0.57
+Leeds,Darko Gyabi,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Dominic Calvert-Lewin,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1753.0,19.0,424.0,233.1,687.0,9.41,0.96
+Leeds,Ethan Ampadu,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2129.0,24.0,415.4,244.6,81.0,1.62,1.35
+Leeds,Facundo Buonanotte,available,MF,0.6552,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,69.0,1.0,6.0,25.7,19.0,0.04,0.1
+Leeds,Gabriel Gudmundsson,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2145.0,25.0,379.2,325.8,139.0,1.04,1.99
+Leeds,Harry Gray,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Ilia Gruev,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1110.0,13.0,178.6,154.6,61.0,0.46,0.79
+Leeds,Illan Meslier,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Isaac Schmidt,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Jack Harrison,available,MF,0.7049555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,262.0,1.0,30.0,49.4,35.0,0.28,0.23
+Leeds,Jaka Bijol,available,DF,0.9641111111111113,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1117.0,12.0,283.4,38.0,133.0,0.48,0.5
+Leeds,James Justin,available,DF,0.9301333333333334,nan,fpl,2026-02-23T17:34:59+00:00,924.0,10.0,225.0,107.3,112.0,0.89,0.78
+Leeds,Jayden Bogle,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2110.0,24.0,322.4,214.9,167.0,1.8,1.2
+Leeds,Joe Gelhardt,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Joe Rodon,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2190.0,25.0,550.6,63.0,173.0,1.2,0.25
+Leeds,Joël Piroe,available,FW,0.7662222222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,206.0,2.0,8.0,22.0,90.0,0.65,0.08
+Leeds,Karl Darlow,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,990.0,11.0,246.6,0.0,0.0,0.0,0.03
+Leeds,Largie Ramazani,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Lucas Estella Perri,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1440.0,16.0,322.4,0.0,0.0,0.0,0.0
+Leeds,Lukas Nmecha,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,700.0,7.0,248.4,58.9,321.0,6.19,0.81
+Leeds,Mateo Joseph Fernández-Regatillo,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Noah Okafor,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1266.0,15.0,254.6,199.8,322.0,4.2,0.98
+Leeds,Pascal Struijk,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2078.0,23.0,525.4,107.5,209.0,2.46,0.48
+Leeds,Patrick Bamford,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Sam Byram,available,DF,0.5807777777777777,nan,fpl,2026-02-23T17:34:59+00:00,7.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Sam Chambers,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Sam Greenwood,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Leeds,Sean Longstaff,available,MF,0.9747777777777776,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,943.0,10.0,240.2,357.3,71.0,0.83,1.48
+Leeds,Sebastiaan Bornauw,available,DF,0.6755555555555556,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,304.0,4.0,78.4,5.6,10.0,0.0,0.01
+Leeds,Tanaka Ao,available,MF,0.8902666666666668,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,737.0,7.0,140.0,127.1,78.0,0.83,0.61
+Leeds,Wilfried Gnonto,available,MF,0.7566666666666666,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,346.0,4.0,59.0,86.0,31.0,0.25,0.54
+Liverpool,Alexander Isak,injured,FW,0.8888222222222223,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,501.0,6.0,97.6,36.5,143.0,2.04,0.07
+Liverpool,Alexis Mac Allister,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1816.0,22.0,305.2,354.0,234.0,2.86,1.18
+Liverpool,Alisson Becker,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1980.0,22.0,393.6,0.1,0.0,0.0,0.03
+Liverpool,Amara Nallo,available,DF,0.58,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Andrew Robertson,available,DF,0.8609333333333333,nan,fpl,2026-02-23T17:34:59+00:00,635.0,5.0,135.4,220.7,61.0,0.22,0.94
+Liverpool,Calvin Ramsay,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Cody Gakpo,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1818.0,21.0,380.2,536.2,555.0,5.27,4.1
+Liverpool,Conor Bradley,injured,DF,0.8873777777777777,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,928.0,12.0,157.4,105.2,62.0,0.18,0.84
+Liverpool,Curtis Jones,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1189.0,11.0,220.8,311.9,150.0,1.38,2.27
+Liverpool,Darwin Núñez Ribeiro,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Dominik Szoboszlai,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2242.0,25.0,572.0,860.4,279.0,3.54,4.07
+Liverpool,Endo Wataru,injured,MF,0.6794888888888888,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,170.0,1.0,56.0,18.1,6.0,0.04,0.05
+Liverpool,Federico Chiesa,available,MF,0.7765111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,252.0,1.0,116.8,34.1,127.0,1.18,0.5
+Liverpool,Florian Wirtz,doubtful,MF,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,1850.0,21.0,409.0,682.1,530.0,5.64,4.1
+Liverpool,Freddie Woodman,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Giorgi Mamardashvili,available,GK,0.8572222222222222,nan,fpl,2026-02-23T17:34:59+00:00,450.0,5.0,140.0,0.0,0.0,0.0,0.0
+Liverpool,Giovanni Leoni,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Hugo Ekitiké,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1599.0,18.0,448.6,244.1,675.0,9.33,1.88
+Liverpool,Ibrahima Konaté,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2236.0,26.0,598.0,133.3,96.0,1.05,0.87
+Liverpool,James McConnell,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Jayden Danns,injured,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Jeremie Frimpong,doubtful,DF,0.8151111111111111,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,538.0,6.0,83.2,140.8,103.0,0.39,1.02
+Liverpool,Joe Gomez,available,DF,0.7067777777777777,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,307.0,4.0,83.4,58.1,22.0,0.18,0.55
+Liverpool,Kieran Morrison,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Konstantinos Tsimikas,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Luis Díaz Marulanda,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Milos Kerkez,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1797.0,22.0,359.0,363.5,110.0,0.95,0.62
+Liverpool,Mohamed Salah,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1612.0,17.0,350.2,584.8,589.0,6.18,3.98
+Liverpool,Rhys Williams,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Rio Ngumoha,available,MF,0.7077555555555555,nan,fpl,2026-02-23T17:34:59+00:00,89.0,0.0,58.2,74.0,43.0,0.37,0.77
+Liverpool,Ryan Gravenberch,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2208.0,25.0,535.0,373.5,139.0,1.32,1.78
+Liverpool,Stefan Bajčetić Maquieira,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Trey Nyoni,available,MF,0.6257777777777778,nan,fpl,2026-02-23T17:34:59+00:00,2.0,0.0,2.2,10.3,0.0,0.0,0.0
+Liverpool,Tyler Morton,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Virgil van Dijk,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,779.6,151.7,303.0,1.92,0.77
+Liverpool,Wellity Lucky,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Liverpool,Ármin Pécsi,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Altay Bayındır,available,GK,0.8670666666666668,nan,fpl,2026-02-23T17:34:59+00:00,540.0,6.0,118.4,10.0,0.0,0.0,0.05
+Man Utd,Amad Diallo,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1650.0,19.0,341.8,459.3,403.0,3.96,3.23
+Man Utd,André Onana,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Antony dos Santos,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Ayden Heaven,available,DF,0.7923555555555555,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,636.0,8.0,175.6,27.2,26.0,0.34,0.17
+Man Utd,Bendito Mantato,available,MF,0.6278444444444444,nan,fpl,2026-02-23T17:34:59+00:00,15.0,0.0,2.2,11.7,0.0,0.0,0.01
+Man Utd,Benjamin Sesko,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1099.0,11.0,294.6,126.5,565.0,5.86,0.2
+Man Utd,Bruno Borges Fernandes,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1985.0,23.0,806.0,1127.1,389.0,8.16,6.7
+Man Utd,Bryan Mbeumo,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1809.0,21.0,498.8,578.8,674.0,7.11,3.78
+Man Utd,Carlos Henrique Casimiro,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1724.0,23.0,535.6,351.4,365.0,4.11,2.42
+Man Utd,Chido Obi,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Dermot Mee,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Diego León Blanco,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Diogo Dalot Teixeira,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1840.0,21.0,397.4,344.2,131.0,1.34,1.95
+Man Utd,Elyh Harrison,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Ethan Wheatley,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Godwill Kukonki,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Harry Amass,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Harry Maguire,available,DF,0.8375333333333334,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,768.0,9.0,172.6,20.6,93.0,0.73,0.06
+Man Utd,Jack Fletcher,available,MF,0.6532222222222221,nan,fpl,2026-02-23T17:34:59+00:00,107.0,0.0,18.6,24.4,5.0,0.03,0.02
+Man Utd,Jack Moorhouse,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Jayce Fitzgerald,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Joshua Zirkzee,available,FW,0.9521777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,492.0,4.0,141.2,131.2,172.0,1.86,0.29
+Man Utd,Kobbie Mainoo,available,MF,0.9003777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,678.0,5.0,160.8,203.3,41.0,0.17,0.56
+Man Utd,Leny Yoro,available,DF,0.9217777777777778,nan,fpl,2026-02-23T17:34:59+00:00,1156.0,12.0,209.8,62.2,73.0,0.68,0.25
+Man Utd,Lisandro Martínez,available,DF,0.8625555555555555,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,904.0,9.0,220.2,78.3,10.0,0.06,0.5
+Man Utd,Luke Shaw,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2264.0,26.0,374.0,260.5,55.0,0.47,1.45
+Man Utd,Manuel Ugarte Ribeiro,available,MF,0.8380666666666667,nan,fpl,2026-02-23T17:34:59+00:00,748.0,7.0,129.6,63.3,32.0,0.31,0.15
+Man Utd,Marcus Rashford,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Mason Mount,doubtful,MF,0.9602222222222224,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,812.0,10.0,162.4,198.5,158.0,1.54,1.4
+Man Utd,Matheus Santos Carneiro da Cunha,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1627.0,19.0,435.8,357.6,510.0,5.13,2.3
+Man Utd,Matthijs de Ligt,doubtful,DF,0.975,chance_next_round:25%,fpl,2026-02-23T17:34:59+00:00,1170.0,13.0,276.6,60.2,122.0,1.38,0.83
+Man Utd,Noussair Mazraoui,available,DF,0.7436444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,448.0,6.0,115.2,51.5,22.0,0.06,0.23
+Man Utd,Patrick Dorgu,injured,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1329.0,14.0,402.4,354.1,262.0,1.86,1.42
+Man Utd,Rasmus Højlund,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Senne Lammens,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1800.0,20.0,371.2,0.0,2.0,0.0,0.0
+Man Utd,Shea Lacey,available,MF,0.6286666666666666,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,12.0,0.0,4.0,1.5,11.0,0.07,0.0
+Man Utd,Sékou Koné,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Toby Collyer,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Tom Heaton,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Man Utd,Tyler Fletcher,available,MF,0.6207333333333332,nan,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,0.4,1.0,0.0,0.0,0.01
+Man Utd,Tyler Fredricson,available,DF,0.582,nan,fpl,2026-02-23T17:34:59+00:00,2.0,0.0,4.0,0.0,0.0,0.0,0.0
+Man Utd,Tyrell Malacia,available,DF,0.5815555555555555,nan,fpl,2026-02-23T17:34:59+00:00,2.0,0.0,3.0,0.0,0.0,0.0,0.0
+Manchester City,Abdukodir Khusanov,available,DF,0.7916888888888889,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,784.0,8.0,152.2,34.1,4.0,0.3,0.1
+Manchester City,Antoine Semenyo,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2336.0,26.0,713.6,454.3,782.0,8.72,2.27
+Manchester City,Bernardo Mota Veiga de Carvalho e Silva,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1988.0,23.0,332.6,508.9,140.0,1.24,2.78
+Manchester City,Charlie Gray,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Claudio Echeverri,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Divine Mukasa,available,MF,0.639,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,25.0,0.0,4.2,28.3,4.0,0.0,0.21
+Manchester City,Ederson Santana de Moraes,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Erling Haaland,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2233.0,26.0,975.4,249.3,1160.0,20.66,1.86
+Manchester City,Gianluigi Donnarumma,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2160.0,24.0,507.0,0.0,0.0,0.0,0.0
+Manchester City,James Trafford,available,GK,0.8095333333333333,nan,fpl,2026-02-23T17:34:59+00:00,270.0,3.0,100.2,0.0,0.0,0.0,0.0
+Manchester City,John Stones,available,DF,0.6826444444444445,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,351.0,4.0,76.6,19.6,2.0,0.0,0.06
+Manchester City,Joško Gvardiol,injured,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1301.0,15.0,354.6,104.7,193.0,2.19,0.64
+Manchester City,Jérémy Doku,doubtful,MF,0.98,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,1179.0,13.0,302.0,557.2,380.0,1.81,4.25
+Manchester City,Kalvin Phillips,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Manuel Akanji,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Marc Guéhi,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2250.0,25.0,627.0,190.7,281.0,2.65,2.02
+Manchester City,Marcus Bettinelli,available,GK,0.72,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Mateo Kovačić,injured,MF,0.6219555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,4.0,0.0,2.6,0.8,0.0,0.0,0.0
+Manchester City,Matheus Nunes,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1994.0,22.0,496.0,318.8,58.0,0.25,1.45
+Manchester City,Max Alleyne,doubtful,DF,0.6382444444444444,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,135.0,2.0,34.0,14.8,26.0,0.26,0.06
+Manchester City,Nathan Aké,available,DF,0.7502,nan,fpl,2026-02-23T17:34:59+00:00,485.0,4.0,98.6,93.1,25.0,0.28,0.44
+Manchester City,Nico González Iglesias,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1370.0,15.0,278.6,185.6,64.0,0.56,1.0
+Manchester City,Nico O'Reilly,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1971.0,21.0,486.6,313.7,279.0,2.95,1.66
+Manchester City,Omar Marmoush,available,MF,0.8838444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,440.0,5.0,111.4,133.0,183.0,1.84,0.66
+Manchester City,Phil Foden,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1716.0,20.0,486.6,724.6,421.0,5.29,3.59
+Manchester City,Rayan Aït-Nouri,available,DF,0.7659555555555555,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,553.0,7.0,94.8,67.6,39.0,0.3,0.73
+Manchester City,Rayan Cherki,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1099.0,12.0,394.8,586.2,326.0,2.16,5.87
+Manchester City,Reigan Heskey,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Rico Lewis,available,DF,0.7218666666666667,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,311.0,3.0,67.4,97.3,43.0,0.11,1.31
+Manchester City,Rodrigo 'Rodri' Hernandez Cascante,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,973.0,11.0,218.2,270.4,42.0,0.26,1.3
+Manchester City,Ryan McAidoo,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Rúben dos Santos Gato Alves Dias,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1869.0,21.0,495.4,96.5,95.0,0.53,0.51
+Manchester City,Stephen Mfuni,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Sverre Nypan,available,MF,0.62,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,Sávio Moreira de Oliveira,available,MF,0.8956000000000001,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,531.0,5.0,75.0,138.1,218.0,1.28,1.18
+Manchester City,Tijjani Reijnders,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1453.0,17.0,325.2,317.4,385.0,3.92,1.99
+Manchester City,Vitor de Oliveira Nunes dos Reis,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Manchester City,İlkay Gündoğan,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Aaron Ramsdale,available,GK,0.8591777777777777,nan,fpl,2026-02-23T17:34:59+00:00,553.0,6.0,97.4,10.0,0.0,0.0,0.0
+Newcastle,Alex Murphy,available,DF,0.5810888888888888,nan,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,2.2,0.0,0.0,0.0,0.0
+Newcastle,Anthony Elanga,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,993.0,10.0,108.4,226.3,144.0,1.25,1.38
+Newcastle,Anthony Gordon,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1381.0,19.0,262.6,344.4,386.0,5.75,3.14
+Newcastle,Antoñito Cordero Campillo,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Bruno Guimarães Rodriguez Moura,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,2019.0,22.0,682.6,634.3,365.0,4.82,3.62
+Newcastle,Dan Burn,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1528.0,18.0,336.6,85.8,74.0,0.19,0.31
+Newcastle,Emil Krafth,injured,DF,0.5911555555555555,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,45.0,1.0,1.4,1.2,0.0,0.0,0.0
+Newcastle,Fabian Schär,injured,DF,0.956,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1089.0,11.0,291.2,63.6,108.0,0.97,0.6
+Newcastle,Garang Kuol,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Harrison Ashby,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Harvey Barnes,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1404.0,14.0,287.0,272.0,504.0,5.52,2.0
+Newcastle,Isaac Hayden,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Jacob Murphy,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1094.0,13.0,216.0,312.0,274.0,2.78,2.34
+Newcastle,Jacob Ramsey,available,MF,0.9420222222222224,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,804.0,7.0,145.0,186.8,113.0,0.85,0.82
+Newcastle,Jamaal Lascelles,available,DF,0.5897555555555555,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,19.0,0.0,10.2,0.0,7.0,0.04,0.0
+Newcastle,Joe White,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Joe Willock,available,MF,0.8058222222222223,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,502.0,6.0,54.0,83.1,88.0,0.78,0.35
+Newcastle,Joelinton Cássio Apolinário de Lira,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1394.0,17.0,254.6,222.3,275.0,1.78,0.98
+Newcastle,John Ruddy,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Kieran Trippier,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1228.0,14.0,213.0,398.2,9.0,0.05,1.77
+Newcastle,Leo Shahar,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Lewis Hall,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1389.0,15.0,396.4,255.7,114.0,0.66,1.81
+Newcastle,Lewis Miley,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1133.0,11.0,275.0,214.3,132.0,1.36,2.0
+Newcastle,Malick Thiaw,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2027.0,23.0,642.2,88.9,300.0,2.66,0.73
+Newcastle,Mark Gillespie,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Matt Targett,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Miodrag Pivaš,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Nick Pope,available,GK,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1876.0,21.0,496.6,0.0,35.0,0.16,0.0
+Newcastle,Nick Woltemade,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1475.0,18.0,358.2,180.8,381.0,6.25,0.78
+Newcastle,Odysseas Vlachodimos,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Sam Alabi,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Sandro Tonali,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1857.0,23.0,285.4,348.0,155.0,1.5,1.78
+Newcastle,Sean Neave,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Seung-Soo Park,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Newcastle,Sven Botman,doubtful,DF,0.9577777777777776,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,1060.0,12.0,325.8,49.7,132.0,1.28,0.28
+Newcastle,Tino Livramento,injured,DF,0.9314,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1048.0,11.0,190.8,178.1,36.0,0.12,0.57
+Newcastle,William Osula,available,FW,0.7706444444444445,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,258.0,1.0,42.4,15.8,70.0,0.64,0.04
+Newcastle,Yoane Wissa,doubtful,FW,0.842488888888889,chance_next_round:25%,fpl,2026-02-23T17:34:59+00:00,406.0,4.0,52.0,34.1,133.0,1.88,0.53
+Nott'm Forest,Angus Gunn,available,GK,0.7255333333333334,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,45.0,0.0,1.2,0.0,0.0,0.0,0.0
+Nott'm Forest,Arnaud Kalimuendo,available,FW,0.7181111111111111,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,89.0,0.0,6.8,17.7,39.0,0.44,0.02
+Nott'm Forest,Callum Hudson-Odoi,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1534.0,17.0,284.4,489.6,291.0,2.74,2.13
+Nott'm Forest,Carlos Miguel dos Santos Pereira,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Chris Wood,injured,FW,0.9108666666666668,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,538.0,7.0,77.6,49.6,179.0,2.81,0.11
+Nott'm Forest,Dan Ndoye,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1103.0,14.0,163.0,205.7,176.0,1.05,1.5
+Nott'm Forest,David Mota Veiga Teixeira do Carmo,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Dilane Bakwa,available,MF,0.7756222222222222,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,326.0,3.0,49.8,113.1,72.0,0.44,0.68
+Nott'm Forest,Elliot Anderson,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2416.0,27.0,603.6,711.7,214.0,2.28,2.93
+Nott'm Forest,Eric da Silva Moreira,available,MF,0.62,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Felipe Rodrigues da Silva,available,DF,0.869488888888889,nan,fpl,2026-02-23T17:34:59+00:00,937.0,10.0,224.8,20.8,59.0,0.83,0.08
+Nott'm Forest,Ibrahim Sangaré,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1404.0,17.0,308.0,128.1,109.0,1.08,1.46
+Nott'm Forest,Igor Jesus Maciel da Cruz,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1502.0,18.0,167.4,118.3,461.0,4.13,0.86
+Nott'm Forest,Jair Paula da Cunha Filho,available,DF,0.6067333333333333,nan,fpl,2026-02-23T17:34:59+00:00,90.0,1.0,26.0,0.4,0.0,0.0,0.0
+Nott'm Forest,James McAtee,available,MF,0.6754888888888888,nan,fpl,2026-02-23T17:34:59+00:00,170.0,1.0,16.2,44.9,10.0,0.02,0.17
+Nott'm Forest,John Victor Maciel Furtado,injured,GK,0.8186222222222223,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,437.0,5.0,56.4,0.0,0.0,0.0,0.0
+Nott'm Forest,João Pedro Ferreira da Silva,available,MF,0.6254444444444445,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,11.0,0.0,5.0,0.5,4.0,0.0,0.0
+Nott'm Forest,Lewis O'Brien,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Lorenzo Lucca,available,FW,0.7342222222222223,nan,fpl,2026-02-23T17:34:59+00:00,119.0,1.0,37.2,12.8,31.0,0.72,0.01
+Nott'm Forest,Luca Netz,available,DF,0.5833777777777777,nan,fpl,2026-02-23T17:34:59+00:00,14.0,0.0,1.0,1.1,2.0,0.0,0.36
+Nott'm Forest,Luis Eduardo Soares da Silva,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Marko Stamenić,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Matt Turner,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Matz Sels,injured,GK,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1677.0,19.0,421.0,10.0,0.0,0.0,0.06
+Nott'm Forest,Morgan Gibbs-White,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2298.0,26.0,441.4,588.1,504.0,6.71,2.04
+Nott'm Forest,Murillo Costa dos Santos,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1639.0,19.0,446.2,100.0,73.0,0.58,0.45
+Nott'm Forest,Neco Williams,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2294.0,26.0,563.4,396.4,258.0,1.54,2.88
+Nott'm Forest,Nicolás Domínguez,available,MF,0.962911111111111,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,823.0,12.0,172.6,141.2,117.0,1.09,0.39
+Nott'm Forest,Nicolò Savona,injured,DF,0.941688888888889,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1025.0,11.0,216.6,123.2,94.0,1.34,0.45
+Nott'm Forest,Nikola Milenković,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,492.4,38.2,98.0,0.8,0.41
+Nott'm Forest,Ola Aina,available,DF,0.890511111111111,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,968.0,11.0,168.0,110.9,54.0,0.28,0.63
+Nott'm Forest,Oleksandr Zinchenko,available,DF,0.7218666666666667,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,352.0,4.0,80.8,83.4,22.0,0.07,0.36
+Nott'm Forest,Omar Richards,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Omari Hutchinson,available,MF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1098.0,10.0,240.0,399.8,256.0,1.7,2.98
+Nott'm Forest,Ryan Yates,available,MF,0.7324,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,367.0,1.0,71.6,48.3,30.0,0.1,0.19
+Nott'm Forest,Stefan Ortega Moreno,available,GK,0.7955777777777778,nan,fpl,2026-02-23T17:34:59+00:00,270.0,3.0,68.8,0.0,0.0,0.0,0.01
+Nott'm Forest,Taiwo Awoniyi,available,FW,0.7944222222222224,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,204.0,1.0,52.4,41.8,101.0,0.85,0.39
+Nott'm Forest,Willy Boly,injured,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Nott'm Forest,Zach Abbott,available,DF,0.6124222222222222,nan,fpl,2026-02-23T17:34:59+00:00,120.0,1.0,25.4,6.3,0.0,0.0,0.01
+Sunderland,Abdoullah Ba,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Ahmed Abdullahi,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Aji Alese,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Alan Browne,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Anthony Patterson,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Arthur Masuaku,available,DF,0.6256222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,125.0,2.0,21.8,20.1,7.0,0.07,0.08
+Sunderland,Bertrand Traoré,doubtful,MF,0.8918666666666667,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,607.0,9.0,115.6,108.1,135.0,0.48,0.25
+Sunderland,Blondy Nna Noukeu,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Brian Brobbey,doubtful,FW,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,1193.0,13.0,236.4,95.8,264.0,2.6,0.41
+Sunderland,Chemsdine Talbi,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1078.0,11.0,176.4,169.7,160.0,1.34,0.56
+Sunderland,Chris Rigg,available,MF,0.7314888888888889,nan,fpl,2026-02-23T17:34:59+00:00,375.0,6.0,20.2,48.4,21.0,0.32,0.35
+Sunderland,Dan Neil,available,MF,0.6234000000000001,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,13.0,0.0,3.0,1.4,0.0,0.0,0.0
+Sunderland,Daniel Ballard,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1761.0,19.0,543.4,142.8,337.0,2.23,0.55
+Sunderland,Dennis Cirkin,doubtful,DF,0.658511111111111,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,296.0,3.0,58.2,8.7,2.0,0.0,0.02
+Sunderland,Djiamgone Jocelin Ta Bi,doubtful,MF,0.6335333333333334,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,38.0,1.0,3.4,4.3,2.0,0.0,0.04
+Sunderland,Eliezer Mayenda Dossou,available,FW,0.8984000000000001,nan,fpl,2026-02-23T17:34:59+00:00,592.0,6.0,77.6,52.3,146.0,1.11,0.29
+Sunderland,Enzo Le Fée,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2115.0,24.0,503.6,521.2,193.0,4.56,2.81
+Sunderland,Granit Xhaka,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1981.0,22.0,526.2,421.8,77.0,0.59,2.27
+Sunderland,Habib Diarra,available,MF,0.8462444444444445,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,745.0,8.0,68.4,64.4,100.0,0.95,0.4
+Sunderland,Harrison Jones,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Ian Poveda-Ocampo,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Jay Matete,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Jenson Jones,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Jenson Seelt,available,DF,0.6157777777777778,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,133.0,1.0,33.6,2.4,0.0,0.0,0.01
+Sunderland,Joe Anderson,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Leo Fuhr Hjelde,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Luke O'Nien,available,DF,0.5856,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,22.0,0.0,6.0,1.1,0.0,0.0,0.0
+Sunderland,Lutsharel Geertruida,available,DF,0.8980222222222223,nan,fpl,2026-02-23T17:34:59+00:00,1087.0,10.0,185.0,102.3,44.0,0.45,0.68
+Sunderland,Luís Hemir Silva Semedo,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Melker Ellborg,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Milan Aleksić,available,MF,0.62,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Nazarii Rusyn,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Nectarios Triantis,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Niall Huggins,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Nilson Angulo,available,MF,0.6933111111111111,nan,fpl,2026-02-23T17:34:59+00:00,153.0,2.0,16.6,27.6,60.0,0.49,0.05
+Sunderland,Noah Sadiki,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1934.0,22.0,236.2,198.6,56.0,0.34,0.91
+Sunderland,Nordi Mukiele,doubtful,DF,0.98,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,2163.0,25.0,559.0,278.7,141.0,1.02,2.01
+Sunderland,Omar Alderete,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1993.0,22.0,541.4,118.3,205.0,1.23,0.82
+Sunderland,Patrick Roberts,available,MF,0.6292666666666666,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,27.0,0.0,1.8,7.3,5.0,0.03,0.02
+Sunderland,Pierre Ekwah Elimby,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Reinildo Mandava,injured,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1427.0,17.0,285.4,94.0,37.0,0.13,0.46
+Sunderland,Robin Roefs,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,681.6,40.0,0.0,0.0,0.1
+Sunderland,Romaine Mundle,doubtful,MF,0.733,chance_next_round:75%,fpl,2026-02-23T17:34:59+00:00,399.0,2.0,29.4,33.6,69.0,0.87,0.34
+Sunderland,Simon Adingra,available,MF,0.8585333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,649.0,9.0,81.4,116.8,75.0,0.35,0.62
+Sunderland,Simon Moore,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Timothée Pembélé,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Trai Hume,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2219.0,25.0,353.2,268.0,178.0,1.58,0.98
+Sunderland,Tymur Tutierov,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sunderland,Wilson Isidor,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1021.0,11.0,166.6,23.9,379.0,3.67,0.07
+Sunderland,Zak Johnson,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Antonín Kinský,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Archie Gray,available,MF,0.9657777777777778,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1017.0,13.0,176.0,80.5,121.0,1.25,0.45
+Tottenham Hotspur,Ashley Phillips,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Ben Davies,injured,DF,0.6680444444444444,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,136.0,2.0,67.4,22.2,52.0,0.49,0.07
+Tottenham Hotspur,Brandon Austin,available,GK,0.72,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Bryan Gil Salvatierra,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Callum Olusesi,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Conor Gallagher,available,MF,0.8211777777777778,nan,fpl,2026-02-23T17:34:59+00:00,473.0,6.0,81.2,103.7,82.0,0.56,0.46
+Tottenham Hotspur,Cristian Romero,suspended,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1710.0,20.0,543.2,110.8,206.0,1.33,1.2
+Tottenham Hotspur,Dane Scarlett,available,FW,0.6839333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,7.0,0.0,1.0,4.1,2.0,0.0,0.01
+Tottenham Hotspur,Dejan Kulusevski,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Destiny Udogie,injured,DF,0.8630222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,794.0,8.0,144.0,122.3,82.0,0.16,0.51
+Tottenham Hotspur,Djed Spence,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1686.0,19.0,238.2,190.1,151.0,0.82,1.71
+Tottenham Hotspur,Dominic Solanke-Mitchell,available,FW,0.8795777777777779,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,435.0,4.0,111.0,39.3,145.0,1.2,0.17
+Tottenham Hotspur,Guglielmo Vicario,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2430.0,27.0,619.4,0.1,0.0,0.0,0.02
+Tottenham Hotspur,James Maddison,injured,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,James Rowswell,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,James Wilson,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1594.0,17.0,468.8,100.4,153.0,1.11,0.55
+Tottenham Hotspur,João Victor de Souza Menezes,available,DF,0.5911333333333334,nan,fpl,2026-02-23T17:34:59+00:00,35.0,0.0,6.0,10.3,0.0,0.0,0.0
+Tottenham Hotspur,Jun'ai Byfield,available,DF,0.580511111111111,nan,fpl,2026-02-23T17:34:59+00:00,1.0,0.0,0.4,0.5,0.0,0.0,0.0
+Tottenham Hotspur,Kevin Danso,injured,DF,0.7870222222222223,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,658.0,8.0,194.2,9.1,8.0,0.03,0.18
+Tottenham Hotspur,Lucas Bergvall,injured,MF,0.9151333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,799.0,10.0,137.4,81.4,133.0,0.96,0.39
+Tottenham Hotspur,Lucá Williams-Barnett,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Luka Vušković,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Manor Solomon,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Mathys Tel,available,MF,0.919888888888889,nan,fpl,2026-02-23T17:34:59+00:00,629.0,6.0,151.2,155.8,189.0,1.67,0.77
+Tottenham Hotspur,Micky van de Ven,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2239.0,25.0,569.4,79.1,202.0,2.79,0.34
+Tottenham Hotspur,Mikey Moore,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Mohammed Kudus,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1535.0,19.0,333.4,413.8,302.0,1.92,2.41
+Tottenham Hotspur,Pape Matar Sarr,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1018.0,10.0,264.8,107.9,120.0,1.16,0.96
+Tottenham Hotspur,Pedro Porro Sauceda,doubtful,DF,0.98,chance_next_round:50%,fpl,2026-02-23T17:34:59+00:00,1820.0,21.0,414.6,517.6,89.0,0.48,2.81
+Tottenham Hotspur,Radu Drăgușin,available,DF,0.6775333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,334.0,3.0,83.0,2.2,17.0,0.18,0.0
+Tottenham Hotspur,Randal Kolo Muani,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1086.0,13.0,116.2,185.3,182.0,1.53,1.11
+Tottenham Hotspur,Richarlison de Andrade,available,FW,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1298.0,13.0,386.8,159.3,514.0,5.19,1.22
+Tottenham Hotspur,Rio Kyerematen,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Rodrigo Bentancur,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1407.0,17.0,268.6,159.7,85.0,0.45,0.68
+Tottenham Hotspur,Son Heung-min,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Takai Kōta,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Will Lankshear,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Wilson Odobert,injured,MF,0.978,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,972.0,10.0,158.8,284.3,234.0,1.92,1.21
+Tottenham Hotspur,Xavi Simons,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1460.0,16.0,272.4,431.5,200.0,2.13,3.29
+Tottenham Hotspur,Yang Min-hyeok,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Yusuf Akhamrich,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tottenham Hotspur,Yves Bissouma,available,MF,0.7218666666666667,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,334.0,4.0,65.6,14.1,21.0,0.28,0.07
+West Ham,Aaron Wan-Bissaka,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1551.0,17.0,360.0,271.1,26.0,0.0,0.78
+West Ham,Adama Traoré Diarra,available,MF,0.7202444444444445,nan,fpl,2026-02-23T17:34:59+00:00,272.0,1.0,21.8,62.5,62.0,0.34,0.55
+West Ham,Airidas Golambeckis,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Alphonse Areola,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1800.0,20.0,570.4,10.0,0.0,0.0,0.0
+West Ham,Andy Irving,available,MF,0.6855111111111111,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,156.0,2.0,31.6,52.3,2.0,0.0,0.17
+West Ham,Axel Disasi,available,DF,0.6712666666666667,nan,fpl,2026-02-23T17:34:59+00:00,270.0,3.0,41.8,11.3,51.0,0.69,0.0
+West Ham,Callum Marshall,available,FW,0.6901333333333334,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,58.0,0.0,1.2,0.1,7.0,0.13,0.0
+West Ham,Callum Wilson,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,933.0,9.0,226.8,93.4,385.0,5.88,0.29
+West Ham,Crysencio Summerville,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1676.0,20.0,318.0,299.2,413.0,4.13,1.51
+West Ham,Edson Álvarez Velázquez,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,El Hadji Malick Diouf,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1734.0,19.0,363.4,216.6,66.0,0.39,1.36
+West Ham,Emerson Palmieri dos Santos,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Ezra Mayers,available,DF,0.6208888888888889,nan,fpl,2026-02-23T17:34:59+00:00,112.0,0.0,21.2,33.8,9.0,0.12,0.44
+West Ham,Freddie Potts,suspended,MF,0.9505555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1094.0,11.0,179.6,129.9,37.0,0.21,1.05
+West Ham,George Earthy,available,MF,0.6224444444444445,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,8.0,0.0,0.0,1.5,2.0,0.0,0.01
+West Ham,Guido Rodríguez,available,MF,0.6573555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,175.0,2.0,9.8,6.0,2.0,0.03,0.04
+West Ham,Jarrod Bowen,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,2419.0,27.0,576.4,394.8,661.0,5.91,3.3
+West Ham,Jean-Clair Todibo,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1521.0,18.0,333.0,64.5,22.0,0.25,0.29
+West Ham,Kaelan Casey,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Keiber Lamadrid,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Konstantinos Mavropanos,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1631.0,17.0,404.4,24.0,141.0,1.01,0.38
+West Ham,Krisztián Hegyi,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Kyle Walker-Peters,available,DF,0.9090666666666668,nan,fpl,2026-02-23T17:34:59+00:00,954.0,10.0,203.2,88.2,98.0,1.13,0.26
+West Ham,Lewis Orford,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Lucas Tolentino Coelho de Lima,available,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1513.0,18.0,374.6,397.2,186.0,2.85,2.0
+West Ham,Luis Guilherme Lira dos Santos,available,MF,0.6507555555555556,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,121.0,1.0,9.2,14.5,4.0,0.07,0.03
+West Ham,Lukasz Fabianski,doubtful,GK,0.72,chance_next_round:25%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Mads Hermansen,available,GK,0.8946,nan,fpl,2026-02-23T17:34:59+00:00,630.0,7.0,156.6,0.0,0.0,0.0,0.01
+West Ham,Mateus Gonçalo Espanha Fernandes,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2033.0,24.0,503.8,463.9,95.0,1.18,1.92
+West Ham,Maximilian Kilman,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1559.0,17.0,392.4,55.8,60.0,0.56,0.25
+West Ham,Maxwel Cornet,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+West Ham,Mohamadou Kanté,available,MF,0.6338222222222223,nan,fpl,2026-02-23T17:34:59+00:00,22.0,0.0,10.4,11.2,4.0,0.03,0.02
+West Ham,Nayef Aguerd,available,DF,0.6326222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,180.0,2.0,39.0,3.9,8.0,0.1,0.03
+West Ham,Niclas Füllkrug,available,FW,0.8573777777777779,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,407.0,5.0,26.0,85.1,130.0,0.93,0.21
+West Ham,Ollie Scarles,available,DF,0.8007333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,654.0,9.0,138.2,71.7,22.0,0.18,0.32
+West Ham,Pablo Felipe Pereira de Jesus,injured,FW,0.7645555555555557,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,250.0,3.0,19.6,53.4,21.0,0.34,0.07
+West Ham,Soungoutou Magassa,available,MF,0.8893777777777779,nan,fpl,2026-02-23T17:34:59+00:00,826.0,10.0,164.0,79.1,44.0,0.44,0.31
+West Ham,Tomáš Souček,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1237.0,13.0,306.8,121.3,284.0,3.47,0.37
+West Ham,Valentín Castellanos,available,FW,0.9240000000000002,nan,fpl,2026-02-23T17:34:59+00:00,565.0,7.0,67.4,66.6,195.0,2.1,0.45
+West Ham,Wes Foderingham,available,GK,0.72,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Adam Armstrong,available,FW,0.7780444444444445,nan,fpl,2026-02-23T17:34:59+00:00,332.0,4.0,37.2,46.4,9.0,0.15,0.4
+Wolverhampton Wanderers,Alfie Pond,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,André Trindade da Costa Neto,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1862.0,20.0,259.6,211.6,21.0,0.28,0.69
+Wolverhampton Wanderers,Angel Gomes,available,MF,0.6909333333333333,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,177.0,3.0,32.8,38.8,10.0,0.05,0.08
+Wolverhampton Wanderers,Bastien Meupiyou Menadjou,available,DF,0.58,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Boubacar Traoré,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Daniel Bentley,available,GK,0.72,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,David Møller Wolfe,available,DF,0.8296666666666668,nan,fpl,2026-02-23T17:34:59+00:00,761.0,8.0,131.0,106.5,44.0,0.13,0.99
+Wolverhampton Wanderers,Emmanuel Agbadou,available,DF,0.962222222222222,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1100.0,12.0,312.2,76.0,75.0,0.57,0.4
+Wolverhampton Wanderers,Enso González Medina,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Ethan Sutherland,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Fer López González,available,MF,0.7117777777777777,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,228.0,2.0,29.0,61.0,37.0,0.16,0.61
+Wolverhampton Wanderers,Fábio Soares Silva,available,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Gonçalo Manuel Ganchinho Guedes,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Hugo Bueno López,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1755.0,19.0,432.6,508.7,132.0,0.5,2.65
+Wolverhampton Wanderers,Hwang Hee-chan,injured,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1144.0,15.0,132.2,152.8,145.0,2.1,0.92
+Wolverhampton Wanderers,Jackson Tchatchoua,available,DF,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1425.0,14.0,240.6,254.5,40.0,0.26,1.09
+Wolverhampton Wanderers,Jean-Ricner Bellegarde,available,MF,0.9530888888888888,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,896.0,11.0,143.4,126.3,132.0,1.03,0.62
+Wolverhampton Wanderers,Jerome Abbey,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Jhon Arias,available,MF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1117.0,14.0,171.0,204.0,148.0,3.38,0.62
+Wolverhampton Wanderers,Joe Hodge,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,José Malheiro de Sá,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1440.0,16.0,343.6,10.0,0.0,0.0,0.03
+Wolverhampton Wanderers,João Victor Gomes da Silva,available,MF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,2027.0,23.0,327.0,278.9,125.0,0.83,1.32
+Wolverhampton Wanderers,Ki-Jana Hoever,available,DF,0.7468666666666667,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,423.0,6.0,101.4,87.8,13.0,0.02,0.36
+Wolverhampton Wanderers,Ladislav Krejcí,suspended,DF,0.98,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,1857.0,21.0,430.6,115.0,206.0,1.97,1.35
+Wolverhampton Wanderers,Leon Chiwome,injured,FW,0.68,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Luke Rawlings,available,MF,0.62,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Marshall Munetsi,available,MF,0.949177777777778,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,872.0,9.0,163.6,61.8,196.0,1.64,0.38
+Wolverhampton Wanderers,Mateus Mané,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1076.0,11.0,216.6,215.6,189.0,1.23,1.64
+Wolverhampton Wanderers,Matt Doherty,available,DF,0.7761111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,644.0,9.0,110.6,50.4,18.0,0.09,0.19
+Wolverhampton Wanderers,Nathan Fraser,available,FW,0.68,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Pedro Cardoso de Lima,available,DF,0.5815333333333332,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,3.0,0.0,0.2,0.5,2.0,0.0,0.0
+Wolverhampton Wanderers,Rodrigo Martins Gomes,available,DF,0.8077111111111112,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,575.0,6.0,101.0,60.1,140.0,1.1,0.29
+Wolverhampton Wanderers,Saheed Olagunju,available,DF,0.58,nan,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Sam Johnstone,available,GK,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1080.0,12.0,308.0,0.1,0.0,0.0,0.02
+Wolverhampton Wanderers,Santiago Ignacio Bueno,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1652.0,18.0,395.2,97.7,145.0,1.63,1.04
+Wolverhampton Wanderers,Saša Kalajdžić,available,FW,0.6848000000000001,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,14.0,0.0,1.0,4.3,2.0,0.0,0.01
+Wolverhampton Wanderers,Tawanda Chirewa,available,MF,0.6243333333333333,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,25.0,0.0,3.2,0.3,0.0,0.0,0.0
+Wolverhampton Wanderers,Temple Ojinnaka,available,MF,0.62,chance_next_round:0%,fpl,2026-02-23T17:34:59+00:00,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Wolverhampton Wanderers,Tolu Arokodare,available,FW,0.98,nan,fpl,2026-02-23T17:34:59+00:00,1176.0,12.0,158.6,139.6,430.0,4.11,0.32
+Wolverhampton Wanderers,Tom Edozie,available,MF,0.6435555555555555,nan,fpl,2026-02-23T17:34:59+00:00,6.0,0.0,34.4,0.1,17.0,0.17,0.0
+Wolverhampton Wanderers,Toti Gomes,available,DF,0.8870444444444444,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,949.0,12.0,212.2,77.4,29.0,0.04,0.21
+Wolverhampton Wanderers,Yerson Mosquera Valdelamar,available,DF,0.98,chance_next_round:100%,fpl,2026-02-23T17:34:59+00:00,1496.0,17.0,294.0,103.4,183.0,1.52,0.37

@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-primary: 2 6 23;
+    --bg-secondary: 15 23 42;
+    --surface-glass: 15 23 42;
+    --text-primary: 248 250 252;
+  }
+
+  * {
+    @apply antialiased;
+  }
+
+  html,
+  body,
+  #root {
+    @apply min-h-screen;
+  }
+
+  body {
+    @apply m-0 bg-slate-950 text-slate-50;
+    font-family: Sora, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif;
+    background-image:
+      radial-gradient(circle at 0% 0%, rgba(56, 189, 248, 0.15), transparent 42%),
+      radial-gradient(circle at 100% 100%, rgba(99, 102, 241, 0.18), transparent 36%);
+    background-attachment: fixed;
+  }
+}
+
+@layer components {
+  .panel-glass {
+    background: linear-gradient(
+      145deg,
+      rgba(var(--surface-glass), 0.52),
+      rgba(var(--bg-primary), 0.72)
+    );
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+  }
+
+  .card-hover {
+    @apply transition-transform duration-300 hover:-translate-y-1;
+  }
+
+  .row-animate {
+    animation: rowFadeUp 500ms ease-out both;
+  }
+}
+
+@keyframes rowFadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
